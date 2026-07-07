@@ -1,0 +1,567 @@
+# =============================================================
+# SALES RADAR — ACCOUNT CONFIG
+# This is the ONLY file you need to edit day-to-day.
+#
+# tier: A  = full daily treatment (stage tag, "what it means", opener)
+# tier: B  = monitored silently; only surfaces on trigger events
+# sector:  = used for the Industry Pulse grouping
+# query:   = the Google News search. Tips:
+#            - use "quotes" for exact names
+#            - use OR for aliases
+#            - add Singapore to geo-scope global companies
+# To promote an account: change tier: B -> tier: A. That's it.
+# =============================================================
+
+settings:
+  timezone: Asia/Singapore
+  max_headlines_per_feed_tier_a: 10
+  max_headlines_per_feed_tier_b: 6
+  max_headlines_per_sector_feed: 6
+
+seller_context: >
+  I am an enterprise Account Executive at Newgen Software in Singapore.
+  I sell AI agents, workflow automation / BPM, intelligent document
+  processing, and enterprise content / document management (ECM).
+  My buyers are CTOs, CIOs, Heads of IT, Heads of AI / Digital,
+  and Heads of Transformation. My angle is efficiency, cycle-time,
+  document-heavy process automation, and agentic AI in the back office.
+
+accounts:
+  # ---------------- TIER A ----------------
+  - name: SingHealth
+    tier: A
+    sector: Healthcare
+    query: '"SingHealth"'
+  - name: NHG Health
+    tier: A
+    sector: Healthcare
+    query: '"NHG Health" OR "National Healthcare Group"'
+  - name: NUHS
+    tier: A
+    sector: Healthcare
+    query: '"National University Health System" OR "NUHS"'
+  - name: Synapxe
+    tier: A
+    sector: Healthcare
+    query: 'Synapxe'
+  - name: Keppel
+    tier: A
+    sector: Engineering & Energy
+    query: 'Keppel'
+  - name: Changi Airport Group
+    tier: A
+    sector: Aviation & Transport
+    query: '"Changi Airport"'
+  - name: SATS
+    tier: A
+    sector: Aviation & Transport
+    query: '"SATS Ltd" OR "SATS Group" OR ("SATS" Changi)'
+  - name: Temasek Holdings
+    tier: A
+    sector: Sovereign & Asset Mgmt
+    query: '"Temasek Holdings" OR Temasek'
+    note: direct corporate actions only — ignore portfolio-company mentions
+  - name: Olam Group
+    tier: A
+    sector: Agri & Commodities
+    query: 'Olam OR "ofi" "Olam Food Ingredients"'
+  - name: Wilmar International
+    tier: A
+    sector: Agri & Commodities
+    query: 'Wilmar'
+  - name: Sembcorp Industries
+    tier: A
+    sector: Engineering & Energy
+    query: 'Sembcorp'
+  - name: CapitaLand
+    tier: A
+    sector: Real Estate
+    query: 'CapitaLand'
+    note: covers CapitaLand Investment, CapitaLand Development, The Ascott
+  - name: Mapletree Investments
+    tier: A
+    sector: Real Estate
+    query: 'Mapletree'
+  - name: GIC
+    tier: A
+    sector: Sovereign & Asset Mgmt
+    query: '"GIC" Singapore sovereign OR "GIC Pte"'
+  - name: PSA International
+    tier: A
+    sector: Ports & Logistics
+    query: '"PSA International" OR "PSA Singapore" OR "PSA BDP"'
+  - name: Seatrium
+    tier: A
+    sector: Engineering & Energy
+    query: 'Seatrium'
+  - name: SP Group
+    tier: A
+    sector: Engineering & Energy
+    query: '"SP Group" OR "Singapore Power"'
+  - name: SMRT
+    tier: A
+    sector: Aviation & Transport
+    query: 'SMRT'
+  - name: Surbana Jurong
+    tier: A
+    sector: Engineering & Energy
+    query: '"Surbana Jurong"'
+  - name: ComfortDelGro
+    tier: A
+    sector: Aviation & Transport
+    query: 'ComfortDelGro'
+
+  # ---------------- TIER B : Healthcare ----------------
+  - name: IHH Healthcare
+    tier: B
+    sector: Healthcare
+    query: '"IHH Healthcare" OR "Parkway Shenton" OR "IHH iXchange" OR "Mount Elizabeth" OR "Gleneagles" Singapore'
+    note: covers Parkway Shenton and iXchange
+  - name: Raffles Medical Group
+    tier: B
+    sector: Healthcare
+    query: '"Raffles Medical"'
+  - name: Thomson Medical Group
+    tier: B
+    sector: Healthcare
+    query: '"Thomson Medical"'
+  - name: Mount Alvernia Hospital
+    tier: B
+    sector: Healthcare
+    query: '"Mount Alvernia"'
+  - name: Farrer Park Hospital
+    tier: B
+    sector: Healthcare
+    query: '"Farrer Park Hospital" OR "The Farrer Park Company"'
+  - name: Fullerton Health
+    tier: B
+    sector: Healthcare
+    query: '"Fullerton Health"'
+  - name: Crawfurd Hospital
+    tier: B
+    sector: Healthcare
+    query: '"Crawfurd Hospital"'
+  - name: Healthway Medical
+    tier: B
+    sector: Healthcare
+    query: '"Healthway Medical"'
+  - name: StarMed
+    tier: B
+    sector: Healthcare
+    query: '"StarMed Specialist Centre" OR "StarMed" Singapore'
+  - name: OneCare
+    tier: B
+    sector: Healthcare
+    query: '"OneCare" Singapore clinic'
+  - name: Q&M Dental Group
+    tier: B
+    sector: Healthcare
+    query: '"Q&M Dental"'
+  - name: National Kidney Foundation
+    tier: B
+    sector: Healthcare
+    query: '"National Kidney Foundation" Singapore'
+  - name: Fresenius NephroCare
+    tier: B
+    sector: Healthcare
+    query: '"Fresenius" Singapore'
+  - name: DaVita
+    tier: B
+    sector: Healthcare
+    query: 'DaVita Singapore'
+  - name: Innoquest Diagnostics
+    tier: B
+    sector: Healthcare
+    query: 'Innoquest'
+  - name: NTUC Health
+    tier: B
+    sector: Healthcare
+    query: '"NTUC Health"'
+  - name: Econ Healthcare
+    tier: B
+    sector: Healthcare
+    query: '"Econ Healthcare"'
+  - name: Orange Valley
+    tier: B
+    sector: Healthcare
+    query: '"Orange Valley" nursing'
+  - name: Allium Healthcare
+    tier: B
+    sector: Healthcare
+    query: '"Allium Healthcare"'
+  - name: Sheares Healthcare Group
+    tier: B
+    sector: Healthcare
+    query: '"Sheares Healthcare"'
+
+  # ---------------- TIER B : Telco & Data Centres ----------------
+  - name: Singtel
+    tier: B
+    sector: Telco & Data Centres
+    query: 'Singtel'
+  - name: M1
+    tier: B
+    sector: Telco & Data Centres
+    query: '"M1 Limited" OR ("M1" Singapore telco)'
+  - name: StarHub
+    tier: B
+    sector: Telco & Data Centres
+    query: 'StarHub'
+  - name: ST Telemedia
+    tier: B
+    sector: Telco & Data Centres
+    query: '"ST Telemedia" OR "STT GDC" OR "ST Telemedia Global Data Centres"'
+    note: covers STT GDC
+
+  # ---------------- TIER B : Aviation & Transport ----------------
+  - name: SIA Group
+    tier: B
+    sector: Aviation & Transport
+    query: '"Singapore Airlines" OR Scoot OR "SIA Engineering"'
+    note: covers Scoot and SIA Engineering
+  - name: VICOM
+    tier: B
+    sector: Aviation & Transport
+    query: 'VICOM Singapore'
+
+  # ---------------- TIER B : Ports & Logistics ----------------
+  - name: Ocean Network Express
+    tier: B
+    sector: Ports & Logistics
+    query: '"Ocean Network Express"'
+  - name: Pacific International Lines
+    tier: B
+    sector: Ports & Logistics
+    query: '"Pacific International Lines"'
+  - name: BW Group
+    tier: B
+    sector: Ports & Logistics
+    query: '"BW Group" shipping'
+  - name: Eastern Pacific Shipping
+    tier: B
+    sector: Ports & Logistics
+    query: '"Eastern Pacific Shipping"'
+  - name: YCH Group
+    tier: B
+    sector: Ports & Logistics
+    query: '"YCH Group"'
+
+  # ---------------- TIER B : Engineering & Industrials ----------------
+  - name: ST Engineering
+    tier: B
+    sector: Engineering & Energy
+    query: '"ST Engineering"'
+  - name: Certis Group
+    tier: B
+    sector: Engineering & Energy
+    query: 'Certis Singapore security'
+
+  # ---------------- TIER B : Real Estate ----------------
+  - name: Frasers Property
+    tier: B
+    sector: Real Estate
+    query: '"Frasers Property"'
+  - name: GuocoLand
+    tier: B
+    sector: Real Estate
+    query: 'GuocoLand'
+  - name: Far East Organization
+    tier: B
+    sector: Real Estate
+    query: '"Far East Organization"'
+
+  # ---------------- TIER B : Semiconductors & Manufacturing ----------------
+  - name: GlobalFoundries Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'GlobalFoundries Singapore'
+  - name: Micron Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'Micron Singapore'
+  - name: STMicroelectronics Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'STMicroelectronics Singapore'
+  - name: Infineon Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'Infineon Singapore'
+  - name: Venture Corporation
+    tier: B
+    sector: Semicon & Manufacturing
+    query: '"Venture Corporation"'
+  - name: Flex Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'Flex Singapore manufacturing'
+  - name: Jabil Singapore
+    tier: B
+    sector: Semicon & Manufacturing
+    query: 'Jabil Singapore'
+
+  # ---------------- TIER B : Pharma & Life Sciences ----------------
+  - name: GSK Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: 'GSK Singapore'
+  - name: Pfizer Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: 'Pfizer Singapore'
+  - name: Amgen Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: 'Amgen Singapore'
+  - name: MSD Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: 'MSD Singapore'
+  - name: BD Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: '"Becton Dickinson" Singapore'
+  - name: Illumina Singapore
+    tier: B
+    sector: Pharma & Life Sciences
+    query: 'Illumina Singapore'
+
+  # ---------------- TIER B : Retail & Consumer ----------------
+  - name: FairPrice Group
+    tier: B
+    sector: Retail & Consumer
+    query: 'FairPrice OR "Unity Pharmacy"'
+    note: covers Unity Pharmacy
+
+  # ---------------- TIER B : Others ----------------
+  - name: Mandai Wildlife Group
+    tier: B
+    sector: Retail & Consumer
+    query: '"Mandai Wildlife"'
+  - name: Seviora
+    tier: B
+    sector: Sovereign & Asset Mgmt
+    query: 'Seviora OR "Fullerton Fund Management" OR "SeaTown Holdings" OR "Azalea Asset Management"'
+    note: covers Fullerton FM, SeaTown, Azalea
+  - name: 65 Equity Partners
+    tier: B
+    sector: Sovereign & Asset Mgmt
+    query: '"65 Equity Partners"'
+  - name: Heliconia Capital
+    tier: B
+    sector: Sovereign & Asset Mgmt
+    query: '"Heliconia Capital"'
+  - name: Vertex Holdings
+    tier: B
+    sector: Sovereign & Asset Mgmt
+    query: '"Vertex Holdings" OR "Vertex Ventures"'
+
+# ---------------- SECTOR PULSE FEEDS ----------------
+# These catch industry-level signals your account feeds miss.
+sector_feeds:
+  - sector: Healthcare
+    query: 'Singapore healthcare AI OR Singapore healthtech'
+  - sector: Telco & Data Centres
+    query: 'Singapore data centre'
+  - sector: Ports & Logistics
+    query: 'Singapore port shipping logistics'
+  - sector: Aviation & Transport
+    query: 'Changi aviation Singapore'
+  - sector: Engineering & Energy
+    query: 'Singapore energy grid utilities'
+  - sector: Real Estate
+    query: 'Singapore REIT property'
+  - sector: Semicon & Manufacturing
+    query: 'Singapore semiconductor manufacturing'
+  - sector: Sovereign & Asset Mgmt
+    query: 'Singapore sovereign wealth fund investment'
+  - sector: Government Digital
+    query: 'Singapore government digitalisation GovTech'
+
+# ---------------- HIRING SIGNALS (Phase 1: MyCareersFuture) ----------------
+jobs:
+  enabled: true
+  # A new posting must classify into one of these functions to count.
+  # Buckets and keywords are fully editable; matching is word-boundary on title.
+  functions:
+    IT & Tech:
+      - information technology
+      - software engineer
+      - software developer
+      - systems engineer
+      - systems analyst
+      - solution architect
+      - solutions architect
+      - infrastructure
+      - cybersecurity
+      - information security
+      - network engineer
+      - cloud engineer
+      - devops
+      - application support
+      - it manager
+      - it executive
+      - it project
+      - erp
+      - sap
+      - service desk
+      - tech lead
+    Transformation & Digital:
+      - transformation
+      - digital
+      - change management
+      - pmo
+      - process excellence
+      - process improvement
+      - continuous improvement
+      - business process
+      - automation
+      - rpa
+      - workflow
+      - low-code
+      - innovation
+    Finance & Accounting:
+      - finance
+      - accounting
+      - accountant
+      - accounts payable
+      - accounts receivable
+      - treasury
+      - financial reporting
+      - billing
+      - credit control
+      - internal audit
+      - tax
+      - shared services
+      - procure-to-pay
+    Data & AI:
+      - data engineer
+      - data analyst
+      - data scientist
+      - data governance
+      - analytics
+      - machine learning
+      - artificial intelligence
+      - " ai "
+      - genai
+      - generative ai
+  # Titles containing these = decision-maker / buyer-seat hire (always surfaced)
+  senior_markers:
+    - chief
+    - head of
+    - director
+    - vice president
+    - " vp "
+    - general manager
+    - cio
+    - cto
+    - cdo
+    - ciso
+  # Competitor / incumbent tech worth flagging if a posting names it
+  competitor_stack:
+    - pega
+    - appian
+    - uipath
+    - automation anywhere
+    - blue prism
+    - opentext
+    - documentum
+    - nintex
+    - kofax
+    - hyland
+    - laserfiche
+    - m-files
+  spike_threshold: 3        # N+ new roles, same account+function, in window = 🚨
+  spike_window_days: 14
+  first_run_lookback_days: 7  # on first ever run, only surface postings this fresh
+  # MCF posts under legal entity names — aliases map radar accounts to employers.
+  # Add to this whenever you spot a miss. Matching is case-insensitive substring.
+  employer_aliases:
+    SingHealth: [Singapore Health Services, SingHealth]
+    NHG Health: [National Healthcare Group, NHG]
+    NUHS: [National University Health System, National University Hospital, NUHS]
+    Synapxe: [Synapxe]
+    Keppel: [Keppel]
+    Changi Airport Group: [Changi Airport Group]
+    SATS: [SATS Ltd, SATS Food, SATS Gateway]
+    Temasek Holdings: [Temasek International, Temasek Holdings]
+    Olam Group: [Olam, ofi]
+    Wilmar International: [Wilmar]
+    Sembcorp Industries: [Sembcorp]
+    CapitaLand: [CapitaLand, Ascott]
+    Mapletree Investments: [Mapletree]
+    GIC: [GIC Private Limited, GIC Pte]
+    PSA International: [PSA Corporation, PSA International, PSA Marine, PSA BDP]
+    Seatrium: [Seatrium]
+    SP Group: [SP Services, SP PowerGrid, Singapore Power, SP Group]
+    SMRT: [SMRT]
+    Surbana Jurong: [Surbana Jurong, SJ Group]
+    ComfortDelGro: [ComfortDelGro, ComfortDelGro Engineering]
+    IHH Healthcare: [IHH, Parkway, Mount Elizabeth, Gleneagles]
+    SIA Group: [Singapore Airlines, SIA Engineering, Scoot]
+    ST Engineering: [Singapore Technologies Engineering, ST Engineering]
+    FairPrice Group: [NTUC Fairprice, FairPrice]
+
+# ---------------- HIRING SIGNALS (MyCareersFuture) ----------------
+jobs:
+  enabled: true
+  window_days: 14            # rolling window for headcount triggers
+  headcount_threshold: 3     # N+ new roles in a function within the window
+  retention_days: 90         # how long seen postings are remembered
+  request_delay_seconds: 0.8
+
+  # Function buckets — a posting joins the FIRST bucket whose keyword
+  # appears in its title. Add/remove keywords freely.
+  functions:
+    IT & Tech:
+      [IT, information technology, software, developer, engineer, cyber,
+       cloud, infrastructure, data, DevOps, systems analyst, network,
+       security, architect, SAP, ERP]
+    Digital & Transformation:
+      [transformation, digital, innovation, automation, AI, artificial
+       intelligence, machine learning, process excellence, process
+       improvement, change management, PMO, agile, product manager,
+       scrum, RPA, workflow, low-code, business process]
+    Finance:
+      [finance, financial, accountant, accounts payable, accounts
+       receivable, treasury, FP&A, controller, audit, billing, tax,
+       procurement, shared services]
+    Ops & Shared Services:
+      [operations executive, operations manager, admin, administrative,
+       customer service, claims, document controller, records, back
+       office, processing officer]
+
+  # Single-posting triggers: one of these appearing is a signal on its own.
+  key_roles:
+    [chief information officer, CIO, chief technology, CTO, chief digital,
+     chief data, chief transformation, chief AI, head of IT, head of AI,
+     head of data, head of digital, head of transformation, head of
+     automation, head of innovation, head of process, director of
+     transformation, director of digital, VP transformation,
+     RPA, intelligent automation, process excellence, low-code,
+     document management, ECM, workflow]
+
+  # Competitor / incumbent stack: a posting naming these = tech-stack intel.
+  competitor_stack:
+    [Pega, Appian, UiPath, Automation Anywhere, Blue Prism, OpenText,
+     Documentum, Nintex, Kofax, Hyland, OnBase, Camunda, FileNet,
+     OutSystems, Mendix, M-Files, Laserfiche, ServiceNow]
+
+  # Legal-entity aliases for MCF company matching (postings often use the
+  # registered entity name). Add more as you spot mismatches.
+  aliases:
+    SingHealth: ["Singapore Health Services", "MOH Holdings"]
+    NHG Health: ["National Healthcare Group", "MOH Holdings"]
+    NUHS: ["National University Health System", "MOH Holdings"]
+    SATS: ["SATS Ltd", "SATS Food Services", "SATS Airport Services"]
+    SP Group: ["Singapore Power", "SP Services", "SP PowerGrid"]
+    PSA International: ["PSA Corporation", "PSA Singapore"]
+    Keppel: ["Keppel Ltd", "Keppel Corporation"]
+    CapitaLand: ["CapitaLand Investment", "CapitaLand Development", "The Ascott"]
+    Changi Airport Group: ["Changi Airport Group (Singapore)"]
+    SMRT: ["SMRT Corporation", "SMRT Trains"]
+    ComfortDelGro: ["ComfortDelGro Corporation", "SBS Transit"]
+    Olam Group: ["Olam International", "Olam Food Ingredients", "ofi"]
+    ST Telemedia: ["ST Telemedia Global Data Centres", "STT GDC"]
+    SIA Group: ["Singapore Airlines", "Scoot", "SIA Engineering Company"]
+    FairPrice Group: ["NTUC FairPrice", "Unity Pharmacy"]
