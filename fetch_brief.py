@@ -139,7 +139,7 @@ def run_claude(prompt: str) -> str:
             ["claude", "-p", "--model", MODEL, "--output-format", "text",
              "You will receive a full task specification on stdin. "
              "Execute it exactly and output only the final markdown brief."],
-            input=prompt, capture_output=True, text=True, timeout=600,
+            input=prompt, capture_output=True, text=True, timeout=1200,
         )
         if result.returncode != 0:
             raise RuntimeError(f"claude -p failed: {result.stderr[:2000]}")
@@ -159,7 +159,7 @@ def run_claude(prompt: str) -> str:
                 "max_tokens": 6000,
                 "messages": [{"role": "user", "content": prompt}],
             },
-            timeout=600,
+            timeout=1200,
         )
         resp.raise_for_status()
         blocks = resp.json().get("content", [])
