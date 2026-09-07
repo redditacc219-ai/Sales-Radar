@@ -336,13 +336,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/060aa14b3f2edd5aa78d4035b19808c2",
    "title": "Senior System Analyst - SAP Finance Consultant (FICO)"
   },
-  "0613011e313ddb1e901543a9820405d5": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/0613011e313ddb1e901543a9820405d5",
-   "title": "Patient Service Associate (Business Office)"
-  },
   "0617423d14ae3e918615139a884b2df3": {
    "account": "ST Engineering",
    "first_seen": "2026-06-29",
@@ -538,6 +531,13 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/0ab7c01a8fcbde85ddd992a7dfba2149",
    "title": "Occupational Therapist"
+  },
+  "0ac453a29c536696c5e35d499032ee32": {
+   "account": "Raffles Medical Group",
+   "first_seen": "2026-09-06",
+   "function": "Other",
+   "link": "https://www.mycareersfuture.gov.sg/job/0ac453a29c536696c5e35d499032ee32",
+   "title": "Pharmacy Technician (East)"
   },
   "0aebadaed1b6cda074053f913e01eab5": {
    "account": "Synapxe",
@@ -1225,13 +1225,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/16e8612257c7079edebec007847d8e7f",
    "title": "Senior Staff Nurse (Various Discipline)"
   },
-  "16f2775d70c73b3e21a66be080b1e811": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/16f2775d70c73b3e21a66be080b1e811",
-   "title": "Senior / Radiographer"
-  },
   "179743c88e9faae7a77833f71943647f": {
    "account": "ST Engineering",
    "first_seen": "2026-08-20",
@@ -1399,6 +1392,13 @@
    "function": "IT & Tech",
    "link": "https://www.mycareersfuture.gov.sg/job/19ea3178578e87214f33dc42bdf5c07b",
    "title": "Associate/AVP, Global Investments, Strategy & Risk - Infrastructure"
+  },
+  "1a5c37b7276f1c7e3413a0e1533d8dfd": {
+   "account": "Raffles Medical Group",
+   "first_seen": "2026-09-06",
+   "function": "Ops & Shared Services",
+   "link": "https://www.mycareersfuture.gov.sg/job/1a5c37b7276f1c7e3413a0e1533d8dfd",
+   "title": "Claims Officer - Raffles Health Insurance (6 months contract)"
   },
   "1a5d8f0eb749f5bb723c8438db4f9cd9": {
    "account": "NUHS",
@@ -1652,13 +1652,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/1f058c4ea4aaee9a2215f219e586a950",
    "title": "Information Technology - Cloud Engineer (GCP)"
   },
-  "1f0ad2452f81e2216803ebf2169a4db3": {
-   "account": "Venture Corporation",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/1f0ad2452f81e2216803ebf2169a4db3",
-   "title": "Senior System Analyst, IT (MES)"
-  },
   "1f47ba1ce9fbcc798082fccc371287a3": {
    "account": "GIC",
    "first_seen": "2026-08-25",
@@ -1784,13 +1777,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/218a9d6836d4a49790b35eda5b911763",
    "title": "Research Assistant(9992) - Alexandra Hospital"
-  },
-  "2199c34fb24d5e16a29a1e865d6e101b": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/2199c34fb24d5e16a29a1e865d6e101b",
-   "title": "Assistant Manager, Medical Affairs - Clinical Governance (9610) - Alexandra Hospital"
   },
   "21c5e307dd2d24e1a62a4d168535b823": {
    "account": "Frasers Property",
@@ -2352,13 +2338,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/2dc64ea9beb67bc9a2a7559ebc2c86d7",
    "title": "Leasing Executive, Tampines 1/Century Square"
   },
-  "2de57d1fdb33abbff4000cc29b9efa51": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/2de57d1fdb33abbff4000cc29b9efa51",
-   "title": "Operating Theatre Technician (295) - Alexandra Hospital"
-  },
   "2df06d2cb19a7f0a4171521eec80f890": {
    "account": "OneCare",
    "first_seen": "2026-08-05",
@@ -2590,13 +2569,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/33dcbd1c1578be60b3d358ae40902901",
    "title": "Senior Assistant Manager, Business Liaison Office"
   },
-  "3416b24f9dfe843f1fda819f1a7e99ab": {
-   "account": "Keppel",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/3416b24f9dfe843f1fda819f1a7e99ab",
-   "title": "Full Stack Developer, Operations Nerve Centre"
-  },
   "3429d5d517c8e48302570eccefc39cc2": {
    "account": "SIA Group",
    "first_seen": "2026-07-03",
@@ -2610,13 +2582,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/3444d985831c76775b693c9ec38b3805",
    "title": "Senior Medical Laboratory Scientist(10095) - Alexandra Hospital"
-  },
-  "34487269fc6a9d2e6d5b9e2ddd2c0274": {
-   "account": "SATS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/34487269fc6a9d2e6d5b9e2ddd2c0274",
-   "title": "Sous Chef"
   },
   "3495f5b2c74aea209c94268738ba55f0": {
    "account": "SingHealth",
@@ -2849,13 +2814,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/38f9f64c8d6fe4d2d1fc398360f6db67",
    "title": "Maintenance, Repair & Overhaul Engineer"
   },
-  "390237dacc6e1afaf508cd784c13315c": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/390237dacc6e1afaf508cd784c13315c",
-   "title": "Junior Pharmacist"
-  },
   "3919dd871d242a26255256b9972c9c20": {
    "account": "GuocoLand",
    "first_seen": "2026-09-02",
@@ -2947,6 +2905,13 @@
    "link": "https://www.mycareersfuture.gov.sg/job/3b25ee128d45182016d4c528cec2f21a",
    "title": "Assistant Project Manager (Cloud)"
   },
+  "3b2d24e2966945b18e40ca5c8236261c": {
+   "account": "Crawfurd Hospital",
+   "first_seen": "2026-09-07",
+   "function": "Ops & Shared Services",
+   "link": "https://www.mycareersfuture.gov.sg/job/3b2d24e2966945b18e40ca5c8236261c",
+   "title": "HR Admin Assistant / Executive"
+  },
   "3b2ea294c4126ada93551143a5fedffb": {
    "account": "YCH Group",
    "first_seen": "2026-08-04",
@@ -2988,13 +2953,6 @@
    "function": "Finance",
    "link": "https://www.mycareersfuture.gov.sg/job/3c2d7b6365b5f8dc96326734392fcab5",
    "title": "Executive (Technical Services), Procurement"
-  },
-  "3c4177dd8d9cf10e1086ce474450640f": {
-   "account": "Seatrium",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/3c4177dd8d9cf10e1086ce474450640f",
-   "title": "Assistant / Commissioning Engineer"
   },
   "3c45cfa54e726240b56a943d14307353": {
    "account": "Surbana Jurong",
@@ -3955,13 +3913,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/50f12adfdb2360785ae98779da3252e9",
    "title": "Technical Officer, RS ETB"
   },
-  "50f67231e62d42ed994622bf81250bb5": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/50f67231e62d42ed994622bf81250bb5",
-   "title": "Senior/ Pharmacist*(9283) - Alexandra Hospital"
-  },
   "511176e7a457a14c33f004a1f1747055": {
    "account": "Innoquest Diagnostics",
    "first_seen": "2026-06-23",
@@ -4535,13 +4486,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/5c8cad9e2c32e6e87b7fdd148ebc7f99",
    "title": "Senior/ Manager, Group Pharmacy"
-  },
-  "5c8e56094a8fb7f0a445427e585f0b10": {
-   "account": "Healthway Medical",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/5c8e56094a8fb7f0a445427e585f0b10",
-   "title": "Patient Service Supervisor/ Clinic Supervisor"
   },
   "5cd4fe293646b299b605676f371bcb86": {
    "account": "Keppel",
@@ -5432,13 +5376,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/70770ef14b5d0f052bf6fd2a0c956d06",
    "title": "System Safety Engineer / Senior Engineer (LS/JT)"
   },
-  "7082023739d3091c187cff7e971d3eec": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/7082023739d3091c187cff7e971d3eec",
-   "title": "Senior Staff Nurse (Various Discipline)"
-  },
   "709685cf37ec207f06344c343374a7ea": {
    "account": "ST Engineering",
    "first_seen": "2026-08-26",
@@ -6244,13 +6181,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/7f3948c16d830ef228000e8c3a1e7e67",
    "title": "QA Engineer"
   },
-  "7f41b99303c3b19a31ea002811babcf2": {
-   "account": "Mount Alvernia Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/7f41b99303c3b19a31ea002811babcf2",
-   "title": "Senior/ Staff Nurse (Day Ward)"
-  },
   "7f477a4dbaf0f6987c5657a2d44643be": {
    "account": "SIA Group",
    "first_seen": "2026-07-31",
@@ -6621,13 +6551,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/87cc2b5bc3f95f15a9d0fdfbad2d7b30",
    "title": "Aircraft Cabin Technician"
-  },
-  "87eb8d524d6040524f1d8a4a6ad273b4": {
-   "account": "Surbana Jurong",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/87eb8d524d6040524f1d8a4a6ad273b4",
-   "title": "Engineer (Geotechnical and Civil & Structural)"
   },
   "881b0f2daf4f9c1559339f048fe66ea6": {
    "account": "NHG Health",
@@ -7104,6 +7027,13 @@
    "function": "IT & Tech",
    "link": "https://www.mycareersfuture.gov.sg/job/912c749a15fe7f7d7ef47796d4248d55",
    "title": "Observability Engineer (DSC/JH)"
+  },
+  "9146b57758c8d18aa97ae2296dd26b00": {
+   "account": "Raffles Medical Group",
+   "first_seen": "2026-09-06",
+   "function": "Other",
+   "link": "https://www.mycareersfuture.gov.sg/job/9146b57758c8d18aa97ae2296dd26b00",
+   "title": "Staff Nurse - RMRH"
   },
   "91785cba44bf2e9e855f7ca8f64464e0": {
    "account": "NUHS",
@@ -7595,13 +7525,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/9afaeafe9f8648984b0ee54828b10302",
    "title": "Analyst/Associate, Capital Markets, Real Estate (JR 17295)"
   },
-  "9b720d9f8b486769452f890649a3b951": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/9b720d9f8b486769452f890649a3b951",
-   "title": "Instrument Technician (279) - Alexandra Hospital"
-  },
   "9b753fe5a50f4df6118778c08e3fbbeb": {
    "account": "Keppel",
    "first_seen": "2026-07-02",
@@ -7714,13 +7637,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/9d8dbd15ba0cb032cfbfef4c360cd1d5",
    "title": "Sr Associate Engineer - Reliability Lab"
   },
-  "9db3e4191e7be033790d036757e34f69": {
-   "account": "National Kidney Foundation",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/9db3e4191e7be033790d036757e34f69",
-   "title": "Enrolled / Senior Enrolled Nurse"
-  },
   "9db634c21a349c93cb8e4ba1d26bde08": {
    "account": "Mount Alvernia Hospital",
    "first_seen": "2026-08-06",
@@ -7825,13 +7741,6 @@
    "function": "IT & Tech",
    "link": "https://www.mycareersfuture.gov.sg/job/9f7fda2ce4d13393be41c7e498f07a50",
    "title": "System Engineer (SATCOM)"
-  },
-  "9f824d1748308ced5d3954829d4bfbe2": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/9f824d1748308ced5d3954829d4bfbe2",
-   "title": "Instrument Technician Assistant (280) - Alexandra Hospital"
   },
   "9f83fe19a5e260bf5ce5d802e8541311": {
    "account": "SingHealth",
@@ -8259,13 +8168,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/a910d34390f542d44979df13aec47610",
    "title": "Senior System Administrator"
-  },
-  "a939b3a304895559950a6e69edd645f1": {
-   "account": "Seatrium",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/a939b3a304895559950a6e69edd645f1",
-   "title": "Assistant / Commissioning Engineer"
   },
   "a96d46c8fe6832e79ad61b6dce5f4f90": {
    "account": "ST Engineering",
@@ -9079,13 +8981,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/ba5c6b7401809ff3209eb73fce367947",
    "title": "Lead/ Senior Planning Engineer (Primavera P6)"
   },
-  "ba71076a538826fb9c96a1dbb8b12861": {
-   "account": "SATS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/ba71076a538826fb9c96a1dbb8b12861",
-   "title": "Chef De Partie"
-  },
   "ba7e37056fa2aceae61ecf042f7103c4": {
    "account": "Surbana Jurong",
    "first_seen": "2026-08-15",
@@ -9499,13 +9394,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/c37282b08c1bc1f25eccd86f2d6bfbde",
    "title": "Associate Systems Engineer (Observability) - Central Infra"
   },
-  "c393cc23fcea0c4007812ae9efa75553": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/c393cc23fcea0c4007812ae9efa75553",
-   "title": "Staff Nurse (Various Discipline)"
-  },
   "c3cae4fdc22552c5af95cb6d0449461c": {
    "account": "NUHS",
    "first_seen": "2026-07-27",
@@ -9624,13 +9512,6 @@
    "function": "IT & Tech",
    "link": "https://www.mycareersfuture.gov.sg/job/c5c2af4b2d79bd8d499d292a271f05c6",
    "title": "Key Account Manager (IT)"
-  },
-  "c5e56351b95f8e2bf67bc127889b3142": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/c5e56351b95f8e2bf67bc127889b3142",
-   "title": "Nurse Educator"
   },
   "c6aa4c91cf32eaeb2dbfac89746364e6": {
    "account": "ST Engineering",
@@ -10535,13 +10416,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/d92b55bd87e9b78fb30e8df73a7e6203",
    "title": "Information Technology - DevOps, ITSM & Compliance Specialist"
   },
-  "d9368a87b1a96e6dff3e7d6e99623df1": {
-   "account": "NUHS",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/d9368a87b1a96e6dff3e7d6e99623df1",
-   "title": "Senior Research Fellow (Healthcare Redesign)(6127) - Alexandra Hospital"
-  },
   "d93e1e59b42c6906f8915e21f04cb897": {
    "account": "ComfortDelGro",
    "first_seen": "2026-06-09",
@@ -10583,13 +10457,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/da3d4b4e34e6319439465c340c3a33df",
    "title": "Assistant Manager / Executive, Marketing, Singapore (2-Year Contract) - Retail Malls"
-  },
-  "da5f416448b98163aa8f3b599116b494": {
-   "account": "Raffles Medical Group",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/da5f416448b98163aa8f3b599116b494",
-   "title": "Senior/ Executive, Corporate Services (Sales)"
   },
   "da6566f9531dc965d4d8f7b70d2a1a35": {
    "account": "NUHS",
@@ -10898,13 +10765,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/e0c4c88fb66f2a4a7c290f4990ad2be1",
    "title": "Part-time Workshop Bus Trainer"
-  },
-  "e0f2b0d436926354a4a49b0c6ddb26c4": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/e0f2b0d436926354a4a49b0c6ddb26c4",
-   "title": "Senior/Sonographer"
   },
   "e0f90b739fb8f435c15d887e5c8c25ca": {
    "account": "Surbana Jurong",
@@ -11760,13 +11620,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/f688141cdeb1fdb56a0350004c25d0fb",
    "title": "Lead, Informatics, NUHS Diagnostics(4023)"
   },
-  "f69f55d31ae6b285c9c82e52722ae545": {
-   "account": "Crawfurd Hospital",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/f69f55d31ae6b285c9c82e52722ae545",
-   "title": "Therapy Assistant"
-  },
   "f6c196f07edfe6b2b5e058502729fc67": {
    "account": "SATS",
    "first_seen": "2026-07-07",
@@ -11794,13 +11647,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/f74663a2f668f8cb22fd2bf4d3d14e0a",
    "title": "Senior/ Assistant Manager, SingHealth Staff Protection & Wellness Office"
-  },
-  "f76afa58d2b38d596f65183baab0e429": {
-   "account": "SIA Group",
-   "first_seen": "2026-06-08",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/f76afa58d2b38d596f65183baab0e429",
-   "title": "COMPOSITE TECHNICIAN"
   },
   "f782d8f6e534a9babe32241fd0428f8b": {
    "account": "Keppel",
@@ -12032,13 +11878,6 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/fc6031e94bd06052680eeaeb587bf52e",
    "title": "Senior Executive (Smart Systems Planning), Eastern General Hospital Planning Office"
-  },
-  "fc62da342dfba8094c650484cff3533e": {
-   "account": "Venture Corporation",
-   "first_seen": "2026-06-08",
-   "function": "IT & Tech",
-   "link": "https://www.mycareersfuture.gov.sg/job/fc62da342dfba8094c650484cff3533e",
-   "title": "MES Principal System Analyst, IT"
   },
   "fcccafa160d36817dc0de6d49aa7b3c7": {
    "account": "NUHS",
