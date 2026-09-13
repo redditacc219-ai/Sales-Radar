@@ -595,13 +595,6 @@
    "link": "https://www.mycareersfuture.gov.sg/job/0c2b4207e5cf9f31c031382d5d7a0ad1",
    "title": "Drafter (C&S)"
   },
-  "0c7e0d7a9e37253e7598b4267e83984c": {
-   "account": "Seatrium",
-   "first_seen": "2026-06-14",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/0c7e0d7a9e37253e7598b4267e83984c",
-   "title": "Assistant/ Health, Safety and Environment (HSE) Officer"
-  },
   "0c855ffe1f1d914c7cda8a558db20e3c": {
    "account": "NUHS",
    "first_seen": "2026-08-12",
@@ -2631,13 +2624,6 @@
    "function": "Finance",
    "link": "https://www.mycareersfuture.gov.sg/job/3378a31c137fa2f1d9ed4844d4f51271",
    "title": "Commercial Executive (Billing)"
-  },
-  "3380f88482ba17a4192316c4b7797c25": {
-   "account": "Seatrium",
-   "first_seen": "2026-06-14",
-   "function": "Other",
-   "link": "https://www.mycareersfuture.gov.sg/job/3380f88482ba17a4192316c4b7797c25",
-   "title": "Executive (Subcontracting)"
   },
   "33c215462af361a56a8c7ffd70c3e4eb": {
    "account": "SingHealth",
@@ -7069,6 +7055,13 @@
    "function": "Other",
    "link": "https://www.mycareersfuture.gov.sg/job/8d82253d502bbb935de9c5a797622c5a",
    "title": "Staff Nurse (AU)"
+  },
+  "8dc2c9f031f10124d606d1084bdae5a1": {
+   "account": "ST Engineering",
+   "first_seen": "2026-09-12",
+   "function": "IT & Tech",
+   "link": "https://www.mycareersfuture.gov.sg/job/8dc2c9f031f10124d606d1084bdae5a1",
+   "title": "Engineer, Smart Junction"
   },
   "8dea7d26409e68a4074d8c79cd08c7bc": {
    "account": "ST Engineering",
